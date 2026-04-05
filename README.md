@@ -8,12 +8,11 @@ A production-structured Spring Boot REST API with JWT authentication and role-ba
 
 |Layer|Technology|
 |-|-|
-|Framework|Spring Boot 3.2|
+|Framework|Spring Boot |
 |Security|Spring Security + JWT (jjwt 0.12)|
 |Persistence|Spring Data JPA + H2 (dev)|
 |Validation|Jakarta Bean Validation|
-|Boilerplate|Lombok|
-|Java Version|Java 17|
+|Java Version|Java 21|
 
 \---
 
